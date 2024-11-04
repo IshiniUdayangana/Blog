@@ -1,0 +1,20 @@
+How to Get Started with Coding
+
+It’s fair to say that every single journey begins with excitement since it is often associated with the brand new. Here’s a simple guide to help you begin:
+
+Select an Ideal Programming Language
+Begin with a language that is suited for beginners to read and learn rather easily. This can be done with Python next to other choices like JavaScript for web development or Ruby to enjoy much simplicity.
+
+Take This Chance to Learn More Online
+Use free online resources and channels such as Codecademy, freeCodeCamp, and Khan Academy. These wonderful platforms have tutorials designed for different audiences and their level of experience.
+
+Coding Challenges
+No learning process is complete without regular practice; it is ideal for the purpose of perfecting a certain skill or trade even. Allocate some minutes each day in practicing coding exercises on sites like LeetCode or HackerRank.
+
+Make Small Projects That Will Help You
+It isn’t enough just to intern, it would be ideal to ensure the applicatory aspect of the knowledge through small projects. For instance, creating a person’s site or developing a smartphone app would increase both understanding and self-satisfaction.
+
+Conclusion
+
+With the right attitude and resources, the understanding of coding languages is within any person’s reach. There is no better time than now to get on starting with programming!
+
